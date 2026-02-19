@@ -3,7 +3,7 @@ import { NextRequest, NextResponse } from 'next/server'
 const GAMMA_API_BASE = 'https://gamma-api.polymarket.com'
 
 export async function GET(
-  request: NextRequest,
+  request: NextRequest, 
   { params }: { params: Promise<{ id: string }> }
 ) {
   try {
