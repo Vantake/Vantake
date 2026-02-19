@@ -9,7 +9,7 @@ export async function GET() {
         'Accept': 'application/json',
       },
       next: { revalidate: 3600 } // Cache for 1 hour
-    })
+    }) 
 
     if (!res.ok) {
       return NextResponse.json(
