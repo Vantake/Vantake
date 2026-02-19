@@ -9,7 +9,7 @@ export async function GET(request: NextRequest) {
 
     if (!query) {
       return NextResponse.json(
-        { error: 'Missing query parameter' },
+        { error: 'Missing query parameter' }, 
         { status: 400 }
       )
     }
