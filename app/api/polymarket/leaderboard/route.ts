@@ -8,7 +8,7 @@ export async function GET(request: NextRequest) {
     const category = searchParams.get('category') as LeaderboardCategory | null
     const timePeriod = searchParams.get('timePeriod') as LeaderboardTimePeriod | null 
     const orderBy = searchParams.get('orderBy') as 'PNL' | 'VOL' | null
-    const limit = searchParams.get('limit')
+    const limit = searchParams.get('limit') 
     const offset = searchParams.get('offset')
     const user = searchParams.get('user')
     const userName = searchParams.get('userName')
