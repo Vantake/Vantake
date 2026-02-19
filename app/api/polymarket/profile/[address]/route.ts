@@ -6,7 +6,7 @@ export async function GET(
   { params }: { params: Promise<{ address: string }> }
 ) {
   try {
-    const { address } = await params
+    const { address } = await params 
     
     const profile = await getProfile(address)
 
