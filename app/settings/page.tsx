@@ -9,7 +9,7 @@ import { Switch } from '@/components/ui/switch'
 import { Label } from '@/components/ui/label'
 import { Skeleton } from '@/components/ui/skeleton'
 import { createClient } from '@/lib/supabase/client'
-import { cn } from '@/lib/utils'
+import { cn } from '@/lib/utils' 
 import { Mail, MessageCircle, Check, Loader2 } from 'lucide-react'
 
 export default function SettingsPage() {
