@@ -6,7 +6,7 @@
 :root {
   /* Vantake: Deep black background */
   --background: oklch(0.06 0 0);
-  --foreground: oklch(0.98 0 0);
+  --foreground: oklch(0.98 0 0); 
   /* Cards: slightly lighter black */
   --card: oklch(0.08 0 0);
   --card-foreground: oklch(0.98 0 0);
