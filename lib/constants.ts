@@ -9,3 +9,4 @@ export const ROUTES = {
   insiderSignals: '/insider-signals',
   settings: '/settings',
 } as const
+ 
