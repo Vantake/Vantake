@@ -6,7 +6,7 @@ import { usePathname, useRouter } from 'next/navigation'
 import { cn } from '@/lib/utils'
 import {
   ChevronLeft,
-  ChevronRight,
+  ChevronRight, 
   ExternalLink,
   X,
 } from 'lucide-react'
