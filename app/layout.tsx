@@ -8,7 +8,7 @@ const spaceGrotesk = Space_Grotesk({
   subsets: ["latin"],
   variable: '--font-sans'
 });
-const jetbrainsMono = JetBrains_Mono({ 
+const jetbrainsMono = JetBrains_Mono({  
   subsets: ["latin"],
   variable: '--font-mono' 
 });
