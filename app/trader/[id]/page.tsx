@@ -10,7 +10,7 @@ import { Skeleton } from '@/components/ui/skeleton'
 import {
   type UserPosition,
   type UserTrade,
-  type LeaderboardTrader,
+  type LeaderboardTrader, 
   formatPnl,
   formatVolume,
   formatAddress,
