@@ -10,7 +10,7 @@ const DATA_API_BASE = 'https://data-api.polymarket.com'
 // ============================================
 
 export interface PolymarketMarket {
-  id: string
+  id: string 
   question: string
   conditionId: string
   slug: string
