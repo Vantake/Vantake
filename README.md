@@ -1,7 +1,7 @@
 # VANTAKE
 
 > Institutional-grade analytics for prediction markets.  
-> Track smart money. Measure performance. Identify asymmetric opportunities.
+> Track smart money. Measure performance. Identify asymmetric opportunities. 
 
 ---<img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/520cd632-2692-4597-b650-39d7a4b3e9e6" />
 
