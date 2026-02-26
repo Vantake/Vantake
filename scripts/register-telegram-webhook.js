@@ -9,7 +9,7 @@ if (!BOT_TOKEN) {
 const WEBHOOK_URL = 'https://app.vantake.trade/api/telegram/webhook'
 
 async function registerWebhook() {
-  console.log(`Setting webhook to: ${WEBHOOK_URL}`)
+  console.log(`Setting webhook to: ${WEBHOOK_URL}`) 
   
   const res = await fetch(`https://api.telegram.org/bot${BOT_TOKEN}/setWebhook`, {
     method: 'POST',
