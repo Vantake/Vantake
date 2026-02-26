@@ -7,7 +7,7 @@ import { AppShell } from '@/components/layout/app-shell'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Switch } from '@/components/ui/switch'
-import { Label } from '@/components/ui/label'
+import { Label } from '@/components/ui/label' 
 import { Skeleton } from '@/components/ui/skeleton'
 import {
   type UserTrade,
