@@ -9,7 +9,7 @@ interface SmartScoreTooltipData {
   profitability: number
 }
 
-interface SmartScoreBadgeProps {
+interface SmartScoreBadgeProps { 
   score: number
   tooltipData?: SmartScoreTooltipData
   size?: 'sm' | 'lg'
