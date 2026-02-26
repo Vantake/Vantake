@@ -105,24 +105,6 @@ http://localhost:3000
 | Secrets | Server-side storage only |
 | API Endpoints | Controlled via protected routes |
 
----
-
-## Roadmap
-
-### Phase 1 — Performance Layer
-- Trader ranking system  
-- Profile analytics  
-- Wallet watchlists  
-
-### Phase 2 — Intelligence Layer
-- Smart Score v1  
-- Capital flow clustering  
-- Signal alerts  
-
-### Phase 3 — Institutional Tools
-- Public API  
-- Strategy comparison engine  
-- Portfolio simulation  
 
 ---
 
