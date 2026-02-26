@@ -1,0 +1,12 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron/check-trades",
+      "schedule": "*/5 * * * *"
+    },
+    {
+      "path": "/api/cron/refresh-top100",
+      "schedule": "*/10 * * * *"
+    }
+  ]
+}
