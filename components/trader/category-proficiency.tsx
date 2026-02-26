@@ -9,7 +9,7 @@ import { ChevronDown } from 'lucide-react'
 const MARKET_CATEGORIES = [
   { key: 'Crypto', emoji: '\u20BF' },
   { key: 'Pop Culture', emoji: '\uD83C\uDFAC' },
-  { key: 'World', emoji: '\uD83C\uDF0D' },
+  { key: 'World', emoji: '\uD83C\uDF0D' }, 
   { key: 'Trump', emoji: '\uD83C\uDDFA\uD83C\uDDF8' },
   { key: 'Tech', emoji: '\uD83D\uDCBB' },
   { key: 'Sports', emoji: '\u26BD' },
