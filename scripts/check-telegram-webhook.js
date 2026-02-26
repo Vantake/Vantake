@@ -7,7 +7,7 @@ if (!BOT_TOKEN) {
 
 async function checkWebhook() {
   const infoRes = await fetch(`https://api.telegram.org/bot${BOT_TOKEN}/getWebhookInfo`)
-  const info = await infoRes.json()
+  const info = await infoRes.json() 
   console.log('Current webhook info:')
   console.log(JSON.stringify(info, null, 2))
   
