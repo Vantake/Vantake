@@ -6,7 +6,7 @@ import { createClient } from '@/lib/supabase/client'
 import { Button } from '@/components/ui/button'
 import { Star, Wallet, Check, Loader2 } from 'lucide-react'
 import { cn } from '@/lib/utils'
-
+ 
 interface FollowButtonProps {
   traderAddress: string
   traderName?: string
