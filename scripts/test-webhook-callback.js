@@ -9,7 +9,7 @@ async function testCallback() {
     update_id: 123456789,
     callback_query: {
       id: "test_callback_id",
-      from: {
+      from: { 
         id: 123456789,
         first_name: "Test",
         username: "testuser"
