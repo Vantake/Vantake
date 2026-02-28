@@ -6,7 +6,7 @@ async function main() {
   if (!TOKEN) {
     console.error('TELEGRAM_BOT_TOKEN is not set');
     return;
-  }
+  } 
 
   // First get recent updates to find chat IDs
   console.log('=== Getting Recent Updates ===\n');
